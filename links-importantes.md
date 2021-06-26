@@ -34,5 +34,24 @@ http://IP:9998/routes
 - Porta para acessar a sua app que esta atras do Fabio
 http://IP:9999/NOME_DO_PREFIXO
 
-- Porta para acessar o Consul´
+- Porta para acessar o Consul
 http://IP:8500
+
+- Integracao entre o Consul e o Nomad
+https://www.nomadproject.io/docs/integrations/consul-integration
+
+- Configurando a Integracao do Nomad com o Consul
+https://www.nomadproject.io/docs/configuration/consul
+
+- Configurando o Nomad Server
+https://www.nomadproject.io/docs/configuration/server
+
+- Configurando o Nomad Client
+https://www.nomadproject.io/docs/configuration/client
+
+- Mais detalhes sobre o `server_join`
+https://www.nomadproject.io/docs/configuration/server_join
+
+- Detalhes sobre a configuracao do Consul
+https://www.consul.io/docs/agent/config-entries
+
