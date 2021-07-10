@@ -55,3 +55,10 @@ https://www.nomadproject.io/docs/configuration/server_join
 - Detalhes sobre a configuracao do Consul
 https://www.consul.io/docs/agent/config-entries
 
+- Sobre o CSI
+https://kubernetes-csi.github.io/docs/drivers.html#production-drivers
+
+- Sobre volumes no Nomad
+https://www.nomadproject.io/docs/job-specification/volume
+
+
