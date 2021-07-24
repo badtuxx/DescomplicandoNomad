@@ -1,0 +1,7 @@
+{
+    "plugin_name": "postgresql-database-plugin",
+    "allowed_roles": "accessdb",
+    "connection_url": "postgresql://{{username}}:{{password}}@SEU_IP_DO_POSTGRES:5432/postgres?sslmode=disable",
+    "username": "postgres",
+    "password": "postgres123"
+  }

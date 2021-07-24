@@ -1,0 +1,9 @@
+{
+    "allowed_policies": "access-tables",
+    "token_explicit_max_ttl": 0,
+    "name": "nomad-cluster",
+    "orphan": true,
+    "token_period": 259200,
+    "renewable": true
+  }
+  

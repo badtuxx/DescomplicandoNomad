@@ -61,4 +61,11 @@ https://kubernetes-csi.github.io/docs/drivers.html#production-drivers
 - Sobre volumes no Nomad
 https://www.nomadproject.io/docs/job-specification/volume
 
+- Sobre a integração entre o Vault e o Nomad
+https://www.nomadproject.io/docs/integrations/vault-integration
 
+- Detalhes sobre a configuração dos servers e dos clients
+https://www.nomadproject.io/docs/configuration/vault
+
+- Instalando o Vault
+https://www.vaultproject.io/docs/install
