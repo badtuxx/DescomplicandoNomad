@@ -1,0 +1,38 @@
+{
+    "Job": {
+      "Datacenters": ["linuxtips"],
+      "ID": "cache",
+      "TaskGroups": [
+        {
+          "Name": "cache",
+          "Networks": [
+            {
+              "DynamicPorts": [
+                {
+                  "Label": "db",
+                  "To": 6379
+                }
+              ]
+            }
+          ],
+          "Services": [
+            {
+              "Name": "redis-cache",
+              "PortLabel": "db"
+            }
+          ],
+          "Tasks": [
+            {
+              "Config": {
+                "image": "redis:3.2",
+                "ports": ["db"]
+              },
+              "Driver": "docker",
+              "Name": "redis"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

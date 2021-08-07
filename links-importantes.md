@@ -69,3 +69,10 @@ https://www.nomadproject.io/docs/configuration/vault
 
 - Instalando o Vault
 https://www.vaultproject.io/docs/install
+
+- API docs
+https://www.nomadproject.io/api-docs
+
+- Policies 
+https://learn.hashicorp.com/collections/nomad/access-control
+
