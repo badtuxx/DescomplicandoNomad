@@ -76,3 +76,9 @@ https://www.nomadproject.io/api-docs
 - Policies 
 https://learn.hashicorp.com/collections/nomad/access-control
 
+- Sobre Scheduling
+https://www.nomadproject.io/docs/internals/scheduling
+
+- Sobre o Affinity e o Spread
+https://www.nomadproject.io/docs/job-specification/affinity#bin-packing
+https://www.nomadproject.io/docs/job-specification/spread
